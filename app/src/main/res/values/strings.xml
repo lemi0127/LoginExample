@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="userEmail">Username</string>
+    <string name="userPassword">Password</string>
+    <string name="loginButton">Log In</string>
+    <string name="userName">Username</string>
+    <string name="forgotButton">Forgot My Password</string>
+    <string name="rememberLogin">Remember Me</string>
+</resources>
